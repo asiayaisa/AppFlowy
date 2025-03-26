@@ -1,5 +1,5 @@
 {
-  "appName": "AppFlowy",
+  "appName": "SKAUT",
   "defaultUsername": "Eu",
   "welcomeText": "Bem-vindo ao @:appName",
   "welcomeTo": "Bem-vindo ao",
@@ -68,7 +68,7 @@
     "logIn": "Entrar",
     "generalError": "Algo deu errado. Tente novamente mais tarde.",
     "limitRateError": "Por razões de segurança, você só pode solicitar um link mágico a cada 60 segundos",
-    "magicLinkSentDescription": "Um Link Mágico foi enviado para seu e-mail. Clique no link para concluir seu login. O link expirará após 5 minutos.",
+    "magicLinkSentDescription": "Um link (Magic Link) foi enviado para seu e-mail. Clique no link para concluir seu login. O link expirará após 5 minutos.",
     "LogInWithGoogle": "Entrar com o Google",
     "LogInWithGithub": "Entrar com o Github",
     "LogInWithDiscord": "Entrar com o Discord",
